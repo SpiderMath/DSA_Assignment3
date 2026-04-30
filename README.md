@@ -12,20 +12,6 @@ Note: can change the number whose factorial we want (in `calculating_factorials.
 
 Computed results:
 
-Shortcuts for execution (Windows + GCC):
-
-```sh
-gcc ./limit_test.c && ./a.exe
-```
-
-```sh
-gcc ./calculating_factorials.c && ./a.exe
-```
-
-Note: can change the number whose factorial we want (in `calculating_factorials.c`) by changing the constant.
-
-Computed results:
-
 | n | n! |
 | :-: | :-: |
 | 42 (Answer to the Ultimate Question of Life, the Universe, and Everything) | 1405006117752879898543142606244511569936384000000000 |
